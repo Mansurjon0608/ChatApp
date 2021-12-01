@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RealTimeChatApp</string>
+    <string name="telefon_raqami_orqali">Telefon raqami orqali</string>
+    <string name="gmail_orqali">Gmail orqali</string>
+    <string name="_998">+998</string>
+    <string name="code">Code</string>
+    <string name="send">Send</string>
+    <string name="ro_yhatdan_o_tish">Ro\'yhatdan o\'tish</string>
+    <string name="_9_15">9:15</string>
+    <string name="username">Username</string>
+    <string name="save">Save</string>
+    <string name="permission_granted">permision</string>
+    <string name="permission_required">Required</string>
+    <string name="ok">Ok</string>
+    <string name="kameraga_ruxsat_bering">Kameraga ruxsat bering</string>
+</resources>

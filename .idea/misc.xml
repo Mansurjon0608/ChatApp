@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/drawable/edit_backroud.xml" value="0.21666666666666667" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/drawable/edit_backroud_clean.xml" value="0.20153846153846153" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/drawable/ic_baseline_assignment_ind_24.xml" value="0.21666666666666667" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.21203703703703702" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.21203703703703702" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/drawable/ic_baseline_unsend_24.xml" value="0.20153846153846153" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/layout/activity_gmail.xml" value="0.19010416666666666" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/layout/activity_messages.xml" value="0.22" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/layout/activity_phone.xml" value="0.18" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/layout/activity_phone_register.xml" value="0.2" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/layout/activity_users.xml" value="0.20416666666666666" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/layout/item_from_user.xml" value="0.43675417661097854" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/layout/item_to_user.xml" value="0.22" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/layout/item_users.xml" value="0.22" />
+        <entry key="..\:/RealTimeChatApp/app/src/main/res/layout/show_snackbar.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
